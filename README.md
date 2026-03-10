@@ -64,7 +64,7 @@ A cartilha desenvolvida neste projeto abordará os seguintes temas:
 
 # 👥 Integrantes do Projeto
 
-* Matheus Araujo Pereira Campos
+* Matheus Araujo P. Campos
 * Luis Gustavo D. Silva
 * Gustavo de Mendonça
 * Jonata Cauã
