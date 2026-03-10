@@ -64,10 +64,12 @@ A cartilha desenvolvida neste projeto abordará os seguintes temas:
 
 # 👥 Integrantes do Projeto
 
-* Neliz — Gerenciamento do projeto e documentação
-* Integrante 2 — Pesquisa e fundamentação teórica
-* Integrante 3 — Desenvolvimento do protótipo
-* Integrante 4 — Testes e validação
+* Matheus Araujo Pereira Campos
+* Luis Gustavo
+* Gustavo
+* Jonata Cauã
+* Lucas
+* dants
 
 ---
 
