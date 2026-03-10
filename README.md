@@ -66,10 +66,10 @@ A cartilha desenvolvida neste projeto abordará os seguintes temas:
 
 * Matheus Araujo Pereira Campos
 * Luis Gustavo
-* Gustavo
+* Gustavo de Mendonça
 * Jonata Cauã
-* Lucas
-* dants
+* Lucas de Sousa Batista
+* Daniel D. Silva
 
 ---
 
