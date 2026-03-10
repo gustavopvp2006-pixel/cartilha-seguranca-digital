@@ -65,10 +65,10 @@ A cartilha desenvolvida neste projeto abordará os seguintes temas:
 # 👥 Integrantes do Projeto
 
 * Matheus Araujo Pereira Campos
-* Luis Gustavo
+* Luis Gustavo D. Silva
 * Gustavo de Mendonça
 * Jonata Cauã
-* Lucas de Sousa Batista
+* Lucas de S. Batista
 * Daniel D. Silva
 
 ---
